@@ -11,7 +11,8 @@ Usage
 2. Inside the folder, using the code below for cmake to build the project files:<br>
 ```bash
 cmake -G "Visual Studio 12 Win64" DCMAKE_BUILD_TYPE=Release ..
-```<br>
+```
+
 If your IDE is Visual Studio 2015, Using the line below to compile your project:<br>
 ```bash
 cmake -G "Visual Studio 14 Win64" DCMAKE_BUILD_TYPE=Release ..
