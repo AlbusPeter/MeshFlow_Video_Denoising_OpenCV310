@@ -29,3 +29,16 @@ For Linux users, using `Cmakelists_Linux.txt` as the cmakelist.<br><br>
 
 For further questions, feel free to contact me at `albuspeter.rzh@gmail.com`.<br>
 Thanks [Guo Heng](https://github.com/GH_HOME) who helped me on the Cmake lists.
+
+# Citation
+If you find this useful in your research, please cite our paper "Meshflow Video Denoising" ([PDF](https://ieeexplore.ieee.org/document/8296826)):
+~~~
+@inproceedings{ren2017meshflow,
+  title={Meshflow video denoising},
+  author={Ren, Zhihang and Li, Jiajia and Liu, Shuaicheng and Zeng, Bing},
+  booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+  pages={2966--2970},
+  year={2017},
+  organization={IEEE}
+}
+~~~
